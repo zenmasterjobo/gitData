@@ -10,12 +10,12 @@
 }
 
 .bioContainer h1{
-    float: left;
+  float: left;
 }
 
 .bioContainer img{
-    height: 200px;
-    width:  200px;
-    padding-right: 15px;
-    float:left;
+  height: 200px;
+  width:  200px;
+  padding-right: 15px;
+  float:left;
 }
